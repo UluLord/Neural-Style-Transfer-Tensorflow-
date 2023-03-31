@@ -105,7 +105,7 @@ Then, use the **main.py** with desired parameters to generate a styled image
 
 If you use this repository in your work, please consider citing us as the following.
 
-    @misc{ululord2023ululord2023neural-style-transfer-tensorflow,
+    @misc{ululord2023neural-style-transfer-tensorflow,
 	      author = {Fatih Demir},
           title = {Neural Style Transfer [Tensorflow]},
           date = {2023-03-13},
